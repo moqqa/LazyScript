@@ -1,6 +1,9 @@
 This helix-inspired plugin for [Obsidian](https://obsidian.md/) that simplifies and improves the integration of subscript and superscript within any notes. 
 
 ((Insert Relevant GIF here))
+## Todo
+- Add Gif
+- Add Helix Hotkeys (Somehow)
 ## Features
 - Improvements to Subscript & Superscript
 - Customizable Helix-style Hotkeys
